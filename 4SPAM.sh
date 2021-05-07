@@ -28,7 +28,7 @@ echo "\33[1;33m║\33[1;32m[4] \33[1;36mTokoPedia                            \33
 echo "\33[1;33m║\33[1;32m[0] \33[1;31mExit.                                \33[1;33m║      \33[1;33m║"
 echo "╚═════════════════════════════════════════╩══════╝"
 echo ""
-read -p "[#]═> " novalattasya
+read -p "[#]═> " MR.L4M3R
 
 case $novalattasya in
 1)
